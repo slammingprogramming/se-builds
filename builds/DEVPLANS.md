@@ -108,4 +108,92 @@
 
 ---
 
-This document outlines the designs, modifications, and planned operations for various vehicles, stations, and bases across Earth, Mars, Titan, and deep space. These assets are crucial for resource gathering, defense, exploration, and overall mission success. The development of these vehicles and structures will enable effective planetary operations, support missions, and facilitate interplanetary trade and defense.
+# Development Plans (DEVPLANS.md)
+
+## Overview
+This document outlines the current development and build plans for various projects, including vehicles, bases, stations, and other important assets across Earth, Mars, Titan, and beyond. The development is broken down into phases, with clear steps and specifications for each task.
+
+---
+
+## Phase 1: Data Transfer and Specifications
+1. **Finish transferring existing data over.**
+2. **First pass of all existing items.**
+3. **Add additional items to accommodate plans to have fully fleshed out.**
+4. **Flesh out specifications system.**
+5. **Finishing pass of all specs for all items.**
+6. **Place specs into specifications folder, add pictures, videos, operation tutorial, etc.**
+7. **Start building, beginning with the small grid vehicles on Earth.**
+
+---
+
+## Phase 2: Printer and Mining Setup
+1. **Set up printer.**
+2. **Print new PAM miner.**
+3. **Set up PAM miner.**
+4. **Tear down all grids except Herbsmith's Forge.**  
+   - Alternatively, ensure design and blueprint of Earth small grid vehicles are in place.
+5. **Build CBD Nebulon.**
+   - BUILD INFO HERE
+6. **Build Herbsmith's Forge.**
+   - BUILD INFO HERE
+7. **Build Bongcannon Bastion.**
+   - BUILD INFO HERE
+8. **Build Greenhouse Grove.**
+   - BUILD INFO HERE
+9. **Tear down old greenhouse grove.**
+10. **Build all Earth vehicles.**
+11. **Take a seed base to Mars.**
+   - BUILD INFO HERE
+12. **Build Red-Eyed Ranch.**
+   - BUILD INFO HERE
+13. **Continue from Mars tertiary bases onwards.**
+
+---
+
+## Phase 3: Vehicle & Base Development (Earth, Mars, Titan)
+
+### **PAM Miners (Small Grid 614)**
+- **Purpose:** Resource gathering on Earth and Mars using small grid drills for both space and atmospheric environments.
+- **Role:** DRILLDO SPACE/ATMO for various mining operations.
+
+---
+
+### **Stations and Facilities**
+- **Public Station/Defense Platform/Private Station/Resource or Other Use Station on Earth**  
+  - **Purpose:** Multi-use station for different roles including resource gathering, defensive capabilities, and civilian operations.
+  
+#### **Mars Vehicles**
+
+1. **Hash Hauler (Large Multipurpose Surface Tractor)**
+   - **Role:** Resource Gathering, Retrofit of Badger Mining Truck.
+
+2. **Sunblazer (Small Solar Miner)**
+   - **Role:** Resource Gathering, Retrofit of the Canary.
+
+3. **The Reefer (Large Assault Cruiser)**
+   - **Role:** Attack.
+
+4. **Cannablitzer (Medium Siege Rover)**
+   - **Role:** Attack, Retrofit of Small Grid 3101_1.
+
+5. **Indica Drifta (Small Scout/Long-Range Attack)**
+   - **Role:** Recon, Retrofit of LFW CargoTruck Mk2 + Scorpion Miner NoDLC.
+
+6. **Grasshopper (Medium Stealth Cargo/Recon Rover)**
+   - **Role:** Recon.
+
+7. **Mars Mower (Medium Planetary Mining Vehicle)**
+   - **Role:** Resource Gathering, Retrofit of Drill Ship Atmosphere Mk.1.
+
+8. **Blunt Bruiser (Medium Armored Assault Rover)**
+   - **Role:** Attack, Retrofit of Artillery 155mm By Lixyss.
+
+9. **Redstone Rover (Small Mobile Recon Rover)**
+   - **Role:** Recon.
+
+10. **Grass Blazer (Small Fast Strike Vehicle)**
+    - **Role:** Attack, Retrofit of Deterrent Mk.1.
+
+---
+
+**Vehicles & Bases must be fully operational across multiple phases of deployment, with proper resource management, defense structures, and repair facilities integrated across planetary stations, mobile units, and transport systems.** 
